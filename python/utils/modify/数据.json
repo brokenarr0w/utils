@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "data": {
+    "approved": 0,
+    "leaves": {
+      "area": "渭南师范学院朝阳校区",
+      "avatar": "https://wzxy-img.oss-cn-beijing.aliyuncs.com/leaves_2/static/avatar/avatar-06.png/s",
+      "beginTime": "2023-11-06 08:00",
+      "classesId": "552802088120221696",
+      "classesName": "计三校211班",
+      "college": "计算机学院",
+      "degree": "本科",
+      "destinationCity": "",
+      "destinationLocation": "",
+      "destinationProvince": "",
+      "destinationStreet": "",
+      "emergencyContact": "13809168765",
+      "endTime": "2023-11-06 12:00",
+      "finalTime": "2023-11-06 08:00",
+      "gender": "男",
+      "id": "558557049168990208",
+      "isFixed": 0,
+      "isOut": 0,
+      "isOutSchool": 0,
+      "leaveLocation": "\"陕西省渭南市临渭区良田街道艺萃路\"",
+      "leaveSettingId": "43600030201",
+      "leaveType": "病假",
+      "leaveTypeId": "436000302",
+      "levelType": "[{\"id\":\"4360003020101\",\"info\":\"30\",\"isFixed\":0,\"leaveSettingId\":\"43600030201\",\"level\":1,\"type\":0},{\"id\":\"4360003020102\",\"info\":\"40\",\"isFixed\":0,\"leaveSettingId\":\"43600030201\",\"level\":2,\"type\":0},{\"id\":\"4360003020103\",\"info\":\"50\",\"isFixed\":0,\"leaveSettingId\":\"43600030201\",\"level\":3,\"type\":0}]",
+      "major": "计算机科学与技术（三校生）",
+      "name": "邹振宇",
+      "number": "211347050",
+      "outSchoolType": 0,
+      "phone": "18191166805",
+      "reason": "扁桃体发炎",
+      "schoolId": "436",
+      "status": 40,
+      "submitTime": "2023-11-06 07:46",
+      "teacherId": "552800514861957120",
+      "teacherName": "薛飞",
+      "terminateGPS": "{\"type\":0,\"circle\":{\"city\":\"渭南市\",\"code\":\"10\",\"district\":\"临渭区\",\"id\":\"4360001\",\"latitude\":\"34.490926\",\"longitude\":\"109.467294\",\"name\":\"渭南师范学院朝阳校区\",\"province\":\"陕西省\",\"radius\":600,\"school\":\"渭南师范学院\",\"schoolId\":436,\"shape\":0},\"id\":\"4360001\",\"name\":\"渭南师范学院朝阳校区\"}",
+      "terminateTime": "2023-11-06 07:40",
+      "type": 10,
+      "userId": "552990163530153984",
+      "year": 2021
+    },
+    "approveList": [
+      {
+        "avatar": "https://wzxy-img.oss-cn-beijing.aliyuncs.com/leaves_2/static/avatar/avatar-06.png/s",
+        "createTime": "2023-03-22 07:46",
+        "isPass": 20,
+        "level": 0,
+        "name": "邹振宇",
+        "userId": "552990163530153984",
+        "userType": "学生"
+      },
+      {
+        "avatar": "https://wzxy-img.oss-cn-beijing.aliyuncs.com/leaves_2/static/avatar/avatar-06.png/s",
+        "college": "计算机学院",
+        "context": "同意",
+        "createTime": "2023-11-06 13:06",
+        "create_time": "2023-11-06 07:46",
+        "id": "558557049214992384",
+        "isPass": 20,
+        "leavesId": "558557049168990208",
+        "level": 1,
+        "name": "薛飞",
+        "schoolId": "436",
+        "type": 10,
+        "userId": "552800514861957120",
+        "userType": "辅导员"
+      }
+    ],
+    "fieldList": [
+      {
+        "field": "accessory",
+        "id": "43600030201",
+        "leaveSettingId": "43600030201",
+        "maxLength": 9,
+        "maxSize": 512,
+        "name": "附件上传",
+        "required": false,
+        "schoolId": "436",
+        "seq": 1,
+        "styles": 1,
+        "tag": 1,
+        "type": 9
+      }
+    ]
+  }
+}
